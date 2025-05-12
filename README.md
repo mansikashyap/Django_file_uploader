@@ -1,5 +1,5 @@
 Django File Uploading Task
-This project demonstrates a Django-based file uploading system that saves files both locally and to an AWS S3 bucket using the boto3 library. 
+This repository demonstrates a Django-based file uploading system that saves files both locally and to an AWS S3 bucket using the boto3 library. 
 The uploaded files are stored in the local MEDIA_ROOT directory and simultaneously uploaded to an S3 using boto3.
 
 Features
